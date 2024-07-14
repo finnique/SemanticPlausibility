@@ -1,0 +1,7 @@
+/.idea
+/.ipynb_checkpoints
+/.venv
+/bk
+/datasets
+/perceptron_updated.ipynb
+/perceptron_updated_bk.ipynb
