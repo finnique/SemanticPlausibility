@@ -5,7 +5,6 @@
   - [Datasets](#datasets)
   - [Methods](#methods)
   - [Results and Analysis](#results-and-analysis)
-      - [Contribution:](#contribution)
 
 
 
@@ -56,7 +55,7 @@ See [Semantic_plausibility.pdf](https://github.com/finnique/SemanticPlausibility
 
 ======================
 
-#### Contribution:
+**Contribution:** \
 **Nina Vikhrova:**         Data analysis, RoBERTa \
 **Mattalika Intarahom:**    Data analysis, Perceptron \
 **Martin Wolf:**             Data analysis, Results analysis
