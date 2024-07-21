@@ -1,9 +1,11 @@
 # Modelling Semantic Plausibility
 
-- [Introduction](#introduction)
-- [Datasets](#datasets)
-- [Methods](#methods)
-- [Results and Analysis](#results-and-analysis)
+- [Modelling Semantic Plausibility](#modelling-semantic-plausibility)
+  - [Introduction](#introduction)
+  - [Datasets](#datasets)
+  - [Methods](#methods)
+  - [Results and Analysis](#results-and-analysis)
+      - [Contribution:](#contribution)
 
 
 
@@ -47,7 +49,7 @@ The lebels ranged from 1 to 5, with 5 indicating the sentence is necessarily tru
 
 
 ## Results and Analysis
-See Semantic_plausibility.pdf
+See [Semantic_plausibility.pdf](https://github.com/finnique/SemanticPlausibility/blob/main/Semantic_plausibility.pdf)
 
 
 
